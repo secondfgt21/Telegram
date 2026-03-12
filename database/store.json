@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "GEMINI AI"
+  ],
+  "products": [
+    {
+      "id": "P1772873198433",
+      "category": "GEMINI AI",
+      "name": "GEMINI 1 TAHUN",
+      "price": 25000,
+      "desc": "AKUN HEAD GEMINI 1TAHUN GARANSI 1BULAN",
+      "success_msg": "Silahkan Amankan Data Akun. \n\n⚠️ NOTE: \n Jika kamu Penguna Windows,Jangan Langsung Login Windows Gunakan Handphone Terlebih Dahulu.",
+      "stocks": [
+        {
+          "email": "ouman",
+          "pw": "ouman",
+          "pin": "",
+          "a2f": "",
+          "profile": "",
+          "isLink": false
+        }
+      ]
+    }
+  ]
+}
